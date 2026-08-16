@@ -23,13 +23,18 @@ $ cat ~/focus.txt
 - 企业知识库 / 智能客服 / 办公 AI 工作流
 ```
 
-## 🔭 正在做
+## 🔭 原创作品
 
-- **[Riona AI Agent 🌸](https://github.com/jienigoto/Riona-AI-Agent)** — Node.js + TypeScript 轻量 AI 代理，专注任务无缝执行
-- **[runx](https://github.com/jienigoto/runx)** — Agent 技能的受治理运行时（Rust）
-- **[cx-distro](https://github.com/jienigoto/cx-distro)** — AI 原生 Linux 发行版构建器
-- **[agent-playground](https://github.com/jienigoto/agent-playground)** — 智能体实验场
-- 企业知识库与 AI 售后智能体一键部署平台（私有）
+- **[enterprise-ai-kb](https://github.com/jienigoto/enterprise-ai-kb)**（私有）— 企业知识库与 AI 售后智能体一键部署平台（Python，文档驱动开发）
+- **[BountyFlow](https://github.com/jienigoto/BountyFlow)**（私有）— GitHub 赏金机会发现与辅助交付系统（Python，Docker + Agent 流水线）
+- **[bounty-control-console](https://github.com/jienigoto/bounty-control-console)**（私有）— 本地优先赏金控制台（TypeScript / Next.js）
+- **[ai-office-training](https://github.com/jienigoto/ai-office-training)** — AI 办公培训与工作流落地页（PowerShell + 企业知识库 Skill）
+- **[ai-skill-upgrades](https://github.com/jienigoto/ai-skill-upgrades)** — AI 技能升级项目系列（brief → script → SKILL.md 交付链）
+
+## 🌱 生态贡献与开源学习
+
+- **[runx](https://github.com/jienigoto/runx)** — 为 runx 生态提交 icey-server-operator 技能绑定（harness 验证通过、上游 PR 已合并、可审计凭证）
+- **[Riona-AI-Agent](https://github.com/jienigoto/Riona-AI-Agent)** · **[cx-distro](https://github.com/jienigoto/cx-distro)** · **[agent-playground](https://github.com/jienigoto/agent-playground)** — fork 研读优秀工程（智能体 monorepo / AI Linux 发行版 / apps 结构）
 
 ## 🛠️ 技能
 
