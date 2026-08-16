@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm jienigoto
 
-**AI Agent · Full-Stack Developer** — 构建 Agent 运行时与技能治理体系，打磨 AI 原生工具链与发行版
+**AI 应用开发者（起步阶段）** — 大模型对接 · 智能体构建 · 大专学历，正在用开源作品证明自己
 
-[![GitHub followers](https://img.shields.io/github/followers/jienigoto?style=flat&color=0e7a4d&label=Followers)](https://github.com/jienigoto)
+[![GitHub followers](https://img.shields.io/badge/GitHub-jienigoto-0e7a4d?style=flat)](https://github.com/jienigoto)
 [![Website](https://img.shields.io/badge/简历-在线站点-0e7a4d?style=flat)](https://jienigoto.github.io)
 [![Email](https://img.shields.io/badge/邮箱-jienigo@outlook.com-0e7a4d?style=flat)](mailto:jienigo@outlook.com)
 
@@ -12,8 +12,9 @@
 
 ```text
 $ whoami
-jienigoto — AI Agent / Full-Stack Developer
-构建 Agent 运行时与技能治理体系，打磨 AI 原生工具链与发行版，为企业落地知识库与智能售后体。
+jienigoto — AI 应用开发者（起步阶段）
+大专 · AI 应用方向：略懂 AI 使用、大模型对接
+正在用开源作品构建真实履历：Agent 运行时、AI 原生工具链、企业智能体。
 
 $ cat ~/focus.txt
 - Agent 架构 / 任务编排 / 技能治理运行时 (Rust)
